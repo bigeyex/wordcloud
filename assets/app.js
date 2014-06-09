@@ -94,11 +94,11 @@ var WordCloudApp = function WordCloudApp() {
       ellipticity: 1 }
   ];
 
-  var sansSerifFonts = '"Trebuchet MS", "Heiti TC", "微軟正黑體", ' +
+  var sansSerifFonts = '"Trebuchet MS", "Heiti SC", "微软雅黑", "微軟正黑體", ' +
     '"Arial Unicode MS", "Droid Fallback Sans", sans-serif';
 
   // http://ethantw.net/projects/lab/css-reset/
-  var serifFonts = 'Baskerville, "Times New Roman", "華康儷金黑 Std", ' +
+  var serifFonts = 'Baskerville, "Times New Roman", "华文宋体", "宋体", "華康儷金黑 Std", ' +
     '"華康儷宋 Std",  DFLiKingHeiStd-W8, DFLiSongStd-W5, ' +
     '"Hiragino Mincho Pro", "LiSong Pro Light", "新細明體", serif';
 
